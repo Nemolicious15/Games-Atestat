@@ -1,0 +1,19 @@
+C:\Users\Jako\Desktop\Games\Games\bin\Debug\Games.exe.config
+C:\Users\Jako\Desktop\Games\Games\bin\Debug\Games.exe
+C:\Users\Jako\Desktop\Games\Games\bin\Debug\Games.pdb
+C:\Users\Jako\Desktop\Games\Games\obj\Debug\Games.csprojResolveAssemblyReference.cache
+C:\Users\Jako\Desktop\Games\Games\obj\Debug\Games.Properties.Resources.resources
+C:\Users\Jako\Desktop\Games\Games\obj\Debug\Games.csproj.GenerateResource.Cache
+C:\Users\Jako\Desktop\Games\Games\obj\Debug\Games.exe
+C:\Users\Jako\Desktop\Games\Games\obj\Debug\Games.pdb
+C:\Users\Jako\Desktop\Games\Games\obj\Debug\Games.Jocuri.resources
+C:\Users\Jako\Desktop\New folder\Games\bin\Debug\Games.exe.config
+C:\Users\Jako\Desktop\New folder\Games\obj\Debug\Games.exe
+C:\Users\Jako\Desktop\New folder\Games\obj\Debug\Games.pdb
+C:\Users\Jako\Desktop\New folder\Games\obj\Debug\Games.csprojResolveAssemblyReference.cache
+C:\Users\Jako\Desktop\New folder\Games\obj\Debug\Games.Jocuri.resources
+C:\Users\Jako\Desktop\New folder\Games\obj\Debug\Games.Properties.Resources.resources
+C:\Users\Jako\Desktop\New folder\Games\obj\Debug\Games.csproj.GenerateResource.Cache
+C:\Users\Jako\Desktop\New folder\Games\bin\Debug\Games.exe
+C:\Users\Jako\Desktop\New folder\Games\bin\Debug\Games.pdb
+C:\Users\Jako\Desktop\New folder\Games\obj\Debug\Games.frmCancer.resources

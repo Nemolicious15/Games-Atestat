@@ -1,0 +1,25 @@
+D:\MCapangi\ShellGame\ShellGame\bin\Debug\ShellGame.exe
+D:\MCapangi\ShellGame\ShellGame\bin\Debug\ShellGame.pdb
+D:\MCapangi\ShellGame\ShellGame\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MCapangi\ShellGame\ShellGame\obj\x86\Debug\ShellGame.Properties.Resources.resources
+D:\MCapangi\ShellGame\ShellGame\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MCapangi\ShellGame\ShellGame\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MCapangi\ShellGame\ShellGame\obj\x86\Debug\ShellGame.exe
+D:\MCapangi\ShellGame\ShellGame\obj\x86\Debug\ShellGame.pdb
+D:\MCapangi\ShellGame\ShellGame\obj\x86\Debug\ShellGame.frmShell.resources
+D:\MCapangi\ShellGame\ShellGame\bin\Debug\ShellGame.exe.config
+C:\Users\Jako\Desktop\mara\ShellGame\ShellGame\bin\Debug\ShellGame.exe.config
+C:\Users\Jako\Desktop\mara\ShellGame\ShellGame\obj\x86\Debug\ShellGame.exe
+C:\Users\Jako\Desktop\mara\ShellGame\ShellGame\obj\x86\Debug\ShellGame.pdb
+C:\Users\Jako\Desktop\mara\ShellGame\ShellGame\bin\Debug\ShellGame.exe
+C:\Users\Jako\Desktop\mara\ShellGame\ShellGame\obj\x86\Debug\ShellGame.csprojResolveAssemblyReference.cache
+C:\Users\Jako\Desktop\mara\ShellGame\ShellGame\obj\x86\Debug\ShellGame.frmShell.resources
+C:\Users\Jako\Desktop\mara\ShellGame\ShellGame\obj\x86\Debug\ShellGame.Properties.Resources.resources
+C:\Users\Jako\Desktop\mara\ShellGame\ShellGame\obj\x86\Debug\ShellGame.csproj.GenerateResource.Cache
+C:\Users\Jako\Desktop\mara\ShellGame\ShellGame\bin\Debug\ShellGame.pdb
+C:\Users\Jako\Desktop\Games\ShellGame\ShellGame\bin\Debug\ShellGame.exe.config
+C:\Users\Jako\Desktop\Games\ShellGame\ShellGame\obj\x86\Debug\ShellGame.exe
+C:\Users\Jako\Desktop\Games\ShellGame\ShellGame\obj\x86\Debug\ShellGame.pdb
+C:\Users\Jako\Desktop\New folder\ShellGame\ShellGame\bin\Debug\ShellGame.exe.config
+C:\Users\Jako\Desktop\New folder\ShellGame\ShellGame\obj\x86\Debug\ShellGame.exe
+C:\Users\Jako\Desktop\New folder\ShellGame\ShellGame\obj\x86\Debug\ShellGame.pdb

@@ -1,0 +1,33 @@
+D:\Mihaela Capangi\Work\puzzle\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Mihaela Capangi\Work\puzzle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Mihaela Capangi\Work\puzzle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Mihaela Capangi\Work\puzzle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Mihaela Capangi\Work\puzzle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Mihaela Capangi\Work\puzzle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Mihaela Capangi\Work\puzzle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Mihaela Capangi\Work\puzzle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\MC\Work\puzzle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\MC\Work\puzzle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\MC\Work\puzzle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\MC\Work\puzzle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\MC\Work\puzzle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\MC\Work\puzzle\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\MC\Work\puzzle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\MC\Work\puzzle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\MC\Work\puzzle\WindowsFormsApplication1\obj\Debug\GenerateResource.read.1.tlog
+D:\MC\Work\puzzle\WindowsFormsApplication1\obj\Debug\GenerateResource.write.1.tlog
+H:\pt mara\puzzle@\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\pt mara\puzzle@\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\pt mara\puzzle@\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jako\Desktop\C#\pt mara\puzzle@\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jako\Desktop\C#\pt mara\puzzle@\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jako\Desktop\C#\pt mara\puzzle@\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jako\Desktop\Games\joc2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jako\Desktop\Games\joc2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jako\Desktop\Games\joc2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jako\Desktop\Games\joc2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jako\Desktop\Games\joc2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jako\Desktop\Games\joc2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jako\Desktop\Games\joc2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jako\Desktop\Games\joc2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jako\Desktop\Games\joc2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
